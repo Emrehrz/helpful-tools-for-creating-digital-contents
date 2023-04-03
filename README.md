@@ -1,5 +1,3 @@
-# helpful-tools-for-creating-digital-contents
-
 ## English 
 *Some usefull tools for helps you to creating digital contents.*
 
